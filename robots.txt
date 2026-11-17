@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agenciabooting-web.github.io/mundooculto/sitemap.xml
